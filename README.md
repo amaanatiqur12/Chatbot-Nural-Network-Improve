@@ -1,8 +1,7 @@
 # Chatbot-Nural-Network-Improve
 
-
 It is improve form of Chatbot-Nural-Network
-
+Below following technique is used to improve Chatbot-Neural-Network.
 ### Stopwords
 ```Python
 words = [token.text for token in words if not token.is_stop]
